@@ -9,7 +9,7 @@ The Merchant Scrape Tool is a real-time web application built with Flask and Sel
 <br>
 <br>
 <img width="1887" height="922" alt="image" src="https://github.com/user-attachments/assets/ee12e610-21bf-4ce6-94eb-01ed0de3e00d" />
-<br?
+<br>
 <br>
 <img width="1893" height="922" alt="image" src="https://github.com/user-attachments/assets/3c9aaf7c-6d91-441b-85a9-ce902cb5ad16" />
 <br>
